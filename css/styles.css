@@ -1,7 +1,6 @@
-.jubotron {
-  text-align: center;
-}
-
 body {
   background-image: linear-gradient(rgb(241, 141, 141), rgb(250, 247, 245));
+}
+#background-list {
+  list-style-type: none;
 }
