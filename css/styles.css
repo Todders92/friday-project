@@ -1,8 +1,8 @@
 body {
-  background-image: linear-gradient(rgb(241, 141, 141), rgb(250, 247, 245));
+  background-image: linear-gradient(rgb(238, 91, 91), rgb(252, 252, 252));
 }
 
-#background-list {
+li {
   list-style-type: none;
 }
 
