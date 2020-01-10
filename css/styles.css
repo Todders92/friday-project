@@ -4,3 +4,12 @@ body {
 #background-list {
   list-style-type: none;
 }
+.card-title {
+  font-weight: bold;
+}
+#about-me {
+  font-family: Tahoma;
+}
+p {
+  font-style: italic;
+}
