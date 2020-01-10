@@ -1,25 +1,25 @@
-# _{Application Name}_
+# _Friday Project_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _A web page about me and showcasing some of my projects I've made using HTML, CSS, and JavaScript!_
 
-#### By _**{List of contributors}**_
+#### By _**{Todd Walraven**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This Repository contains a webpage that likns to other repositories on my GitHub. It uses Bootstrap and CSS to style the page._
 
 ## Setup/Installation Requirements
 
 * _Clone or download this repository off of GitHub_
 * _Open index.html in preferred web browser_
-* _Enjoy_
+* _Enjoy!_
 
 
 _Repository is pretty striaght forward. make sure to keep all files acosciated with this repo. otherwise the page styling won't work._
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_none yet... Give it time, im sure I'll run into something._
 
 ## Support and contact details
 
