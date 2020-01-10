@@ -1,18 +1,27 @@
 body {
   background-image: linear-gradient(rgb(241, 141, 141), rgb(250, 247, 245));
 }
+
 #background-list {
   list-style-type: none;
 }
+
 .card-title {
   font-weight: bold;
 }
+
 #about-me {
   font-family: Tahoma;
 }
+
 p {
   font-style: italic;
 }
+
 ul {
   font-family: verdana;
+}
+
+img {
+  width: 50%;
 }
