@@ -2,11 +2,11 @@
 
 #### _A web page about me and showcasing some of my projects I've made using HTML, CSS, and JavaScript!_
 
-#### By _**{Todd Walraven**_
+#### By _**Todd Walraven**_
 
 ## Description
 
-_This Repository contains a webpage that likns to other repositories on my GitHub. It uses Bootstrap and CSS to style the page._
+_This Repository contains a web page that links to other repositories on my GitHub. It uses Bootstrap and CSS to style the page._
 
 ## Setup/Installation Requirements
 
@@ -15,11 +15,11 @@ _This Repository contains a webpage that likns to other repositories on my GitHu
 * _Enjoy!_
 
 
-_Repository is pretty striaght forward. make sure to keep all files acosciated with this repo. otherwise the page styling won't work._
+_Repository is pretty straight forward. Make sure to keep all files associated with this repo. Otherwise the page styling won't work._
 
 ## Known Bugs
 
-_none yet... Give it time, im sure I'll run into something._
+_none yet... Give it time, I'm sure I'll run into something._
 
 ## Support and contact details
 
@@ -34,6 +34,6 @@ _If you run into any bugs or would like to contact the creator Email me at: cod4
 
 ### License/Copyright Information
 
-*Licesenced under the GPL license*
+*Licensed under the GPL license*
 
 Copyright (c) 2020 _Todd Walraven_
